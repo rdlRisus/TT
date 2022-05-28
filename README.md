@@ -12,6 +12,7 @@ kitty
 betterlockscreen
 colorscript `distrotube ver.`
 arcolinux-tweaks-tool
+
 #Fonts !
 
 ttf-font-awesome
