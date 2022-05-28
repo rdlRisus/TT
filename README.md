@@ -22,6 +22,8 @@ arcolinux-tweaks-tool
 
 Feh
 
+chromium
+
 #Fonts !
 
 ttf-font-awesome
