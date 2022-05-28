@@ -24,6 +24,8 @@ Feh
 
 chromium
 
+lxappearance 
+
 #Fonts !
 
 ttf-font-awesome
