@@ -33,3 +33,7 @@ monospace
 adobe-source-han-sans-jp-fonts 
 
 adobe-source-han-sans-kr-fonts
+
+#BETTERLOCKSCREAN COMMAND
+
+betterlockscreen -u /path/to/wallpaper.png
