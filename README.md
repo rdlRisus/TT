@@ -20,6 +20,8 @@ colorscript `distrotube ver."AUR"`
 
 arcolinux-tweaks-tool 
 
+Feh
+
 #Fonts !
 
 ttf-font-awesome
