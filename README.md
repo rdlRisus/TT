@@ -53,7 +53,7 @@ betterlockscreen -u /path/to/wallpaper.png
                  `ooo/                   OS: Arch Linux x86_64 
                 `+oooo:                  Host: Iwctl
                `+oooooo:                 Kernel: 5.15.41-1-lts 
-               -+oooooo+:                Uptime: 24 secs 
+               -+oooooo+:                Uptime: Inf 
              `/:-:++oooo+:               Packages: 636 (pacman) 
             `/++++/+++++++:              Shell: zsh 5.9 
            `/++++++++++++++:             Resolution: 1920x1080 
