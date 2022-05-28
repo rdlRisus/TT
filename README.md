@@ -41,27 +41,27 @@ adobe-source-han-sans-kr-fonts
 betterlockscreen -u /path/to/wallpaper.png
 
 
-┌─[aespa@iwctl] - [~] -
-└─[$] neofetch                                                                                                                                                                                           
-                   -`                    aespa@iwctl 
-                  .o+`                   ----------- 
-                 `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Host: IWCTL
-               `+oooooo:                 Kernel: 5.15.41-1-lts 
-               -+oooooo+:                Uptime: 24 secs 
-             `/:-:++oooo+:               Packages: 636 (pacman) 
-            `/++++/+++++++:              Shell: zsh 5.9 
-           `/++++++++++++++:             Resolution: 1920x1080 
-          `/+++ooooooooooooo/`           DE: Unity 
-         ./ooosssso++osssssso+`          WM: i3 
-        .oossssso-````/ossssss+`         Theme: Adwaita [GTK2/3] 
-       -osssssso.      :ssssssso.        Icons: Adwaita [GTK2/3] 
-      :osssssss/        osssso+++.       Terminal: kitty 
-     /ossssssss/        +ssssooo/-       CPU: Intel i5-7400 (4) @ 3.000GHz 
-   `/ossssso+/:-        -:/+osssso+-     GPU: Rx 570
-  `+sso+:-`                 `.-/+oso:     
- `++:.                           `-/+/
- .`                                 `/                           
+`┌─[aespa@iwctl] - [~] -`
+`└─[$] neofetch                                                                                             `           `                                                                                   
+`                   -`                    aespa@iwctl `
+`                  .o+`                   ----------- `
+`                 `ooo/                   OS: Arch Linux x86_64 `
+`                `+oooo:                  Host: IWCTL`
+`               `+oooooo:                 Kernel: 5.15.41-1-lts `
+`               -+oooooo+:                Uptime: 24 secs `
+`             `/:-:++oooo+:               Packages: 636 (pacman) `
+`            `/++++/+++++++:              Shell: zsh 5.9 `
+`           `/++++++++++++++:             Resolution: 1920x1080 `
+`          `/+++ooooooooooooo/`           DE: Unity `
+`         ./ooosssso++osssssso+`          WM: i3 `
+`        .oossssso-````/ossssss+`         Theme: Adwaita [GTK2/3] `
+`       -osssssso.      :ssssssso.        Icons: Adwaita [GTK2/3] `
+`      :osssssss/        osssso+++.       Terminal: kitty `
+`     /ossssssss/        +ssssooo/-       CPU: Intel i5-7400 (4) @ 3.000GHz `
+`   `/ossssso+/:-        -:/+osssso+-     GPU: Rx 570`
+`  `+sso+:-`                 `.-/+oso:     
+` `++:.                           `-/+/
+` .`                                 `/                           
                                                                  
 
 
