@@ -5,7 +5,8 @@ Welcome to my first rice *-*
 #Needed List !
 
 i3
-polybar
+
+polybar-git `AUR`
 
 rofi
 
@@ -13,11 +14,11 @@ thunar
 
 kitty
 
-betterlockscreen
+betterlockscreen `AUR`
 
-colorscript `distrotube ver.`
+colorscript `distrotube ver."AUR"`
 
-arcolinux-tweaks-tool
+arcolinux-tweaks-tool 
 
 #Fonts !
 
