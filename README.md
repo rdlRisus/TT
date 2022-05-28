@@ -3,6 +3,7 @@ Welcome to my first rice *-*
 
 
 #Needed List !
+
 i3
 polybar
 rofi
@@ -12,6 +13,7 @@ betterlockscreen
 colorscript `distrotube ver.`
 arcolinux-tweaks-tool
 #Fonts !
+
 ttf-font-awesome
 monospace
 adobe-source-han-sans-jp-fonts 
